@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MotoDesk",
+  "description": "A complete mobile-first bike dealer management system for inventory, sales, and staff management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
